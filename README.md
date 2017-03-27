@@ -2,7 +2,7 @@
 Ad Generationとは、複数のDSP・アドネットワークから、最も収益の高い広告を自動配信するSSPサービスです。  
 http://www.scaleout.jp/ad-generation/
 
-# Cocos2d-x SDK
+# Cocos2d-x Plugin
 
 - [Documents](https://github.com/AdGeneration/sdk/wiki)
-- [Downloads](https://github.com/AdGeneration/ADG-Cocos2d-x-SDK/releases)
+- [Downloads](https://github.com/AdGeneration/ADG-Cocos2d-x-Plugin/releases)
